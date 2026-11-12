@@ -1,0 +1,9 @@
+logs/
+shots/
+gui/
+report/pages/
+report/__pycache__/
+chrome-profile/
+npm-vm-profile/
+*.tmp
+~$*
